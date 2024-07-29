@@ -1,0 +1,37 @@
+[
+    {
+        "name": "UBUD",
+        "id":"1",
+        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum nulla cum hic ipsam veniam earum natus incidunt ullam voluptates neque, illum odio voluptate laudantium porro amet vitae eum quod. Quas facere harum adipisci ipsum quaerat in quasi labore asperiores mollitia, suscipit ut, sunt ad laboriosam aspernatur fuga enim reprehenderit. Praesentium possimus esse soluta eligendi, minus, quos voluptas provident ipsa dolor magni similique labore? Impedit minima explicabo labore veritatis eligendi nemo, neque, adipisci quae ab rerum corporis. Alias amet, doloribus ad assumenda quidem eligendi incidunt hic ea autem earum quam voluptatibus corporis, ipsum ex sequi officiis? Voluptates numquam ipsam odit repudiandae?",
+        "img": "asset/ubud.jpg"
+    },
+    {
+        "name": "KUTA BEACH",
+        "id":"2",
+        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nam malesuada felis ac turpis laoreet, nec consectetur velit convallis. Sed sed augue nec ipsum fermentum volutpat. Duis sagittis est id ornare aliquam. Vivamus sit amet nibh et sapien fermentum consequat ut sit amet turpis.",
+        "img": "asset/kuta.jpeg"
+    },
+    {
+        "name": "TANAH LOT",
+        "id":"3",
+        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed libero a magna congue placerat. Integer ultricies vehicula ligula, in tristique orci convallis eu. Aliquam erat volutpat. Proin lacinia ligula a enim interdum, nec venenatis libero sollicitudin. Curabitur a arcu vel enim pellentesque suscipit. Integer ut diam sit amet libero vehicula aliquam.",
+        "img": "asset/tanah_lot.jpg"
+    },
+    {
+        "name": "SEMINYAK",
+        "id":"4",
+        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at risus nec sem sollicitudin sodales. Nam auctor dapibus justo, vel faucibus enim tincidunt eu. Aenean varius metus non magna convallis, a pharetra ex condimentum. Donec sit amet urna vel est tincidunt vehicula. Maecenas non arcu ex. Integer tincidunt lacus nec libero tristique, quis faucibus eros accumsan.",
+        "img": "asset/seminyak.png"
+    },
+    {
+        "name": "NUSA DUA",
+        "id":"5",
+        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper enim non eros facilisis, sed iaculis est tristique. Sed dapibus dolor a lectus accumsan, sed egestas mauris vulputate. Vestibulum vitae quam et libero commodo tincidunt. Praesent imperdiet ligula nec velit elementum, in vulputate felis ullamcorper. Phasellus sit amet suscipit eros.",
+        "img": "asset/nusa_dua.png"
+    }
+]
