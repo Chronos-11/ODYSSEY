@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Relaxation Bundle",
+        "description": "Indulge in luxury and comfort with this package. Includes stays at five-star resorts, spa treatments, and romantic beachside dinners. Perfect for a lavish and relaxing getaway.",
+        "price": "<span class='text-decoration-line-through fw-bold'>$700</span> $699"
+    },
+    {
+        "id": 2,
+        "name": "Cultural Explorer Bundle",
+        "description": "Explore the rich culture of Bali with this package. Includes visits to museums, art villages, and traditional ceremonies. Enjoy an authentic and immersive cultural experience.",
+        "price": "$350"
+    },
+    {
+        "id": 3,
+        "name": "Adventure Seeker Bundle",
+        "description": "Designed for adventure enthusiasts. Includes activities like white-water rafting, volcano hiking, and forest biking tours. Challenge yourself and feel the adrenaline.",
+        "price": "$400"
+    },
+   
+    {
+        "id": 4,
+        "name": "Family Fun Bundle",
+        "description": "The perfect family vacation package. Includes visits to amusement parks, zoos, and family-friendly beaches. Fun activities for the entire family.",
+        "price": "$450"
+    },
+    {
+        "id": 5,
+        "name": "Romantic Getaway Bundle",
+        "description": "Create beautiful memories with your partner with this romantic package. Includes starlit dinners, boat rides on the lake, and private villa accommodations.",
+        "price": "$600"
+    },
+    {
+        "id": 6,
+        "name": "Wellness Retreat Bundle",
+        "description": "Detox and rejuvenate with this wellness package. Includes daily yoga, meditation, and health treatments at renowned spas. Focus on well-being and fitness.",
+        "price": "$500"
+    },
+    {
+        "id": 7,
+        "name": "Nature Lover Bundle",
+        "description": "Connect with nature through this package. Includes tours to national parks, snorkeling at coral reefs, and bird-watching. Discover the natural wonders of Bali.",
+        "price": "$380"
+    }
+]
