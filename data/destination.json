@@ -2,36 +2,36 @@
     {
         "name": "UBUD",
         "id":"1",
-        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
-        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum nulla cum hic ipsam veniam earum natus incidunt ullam voluptates neque, illum odio voluptate laudantium porro amet vitae eum quod. Quas facere harum adipisci ipsum quaerat in quasi labore asperiores mollitia, suscipit ut, sunt ad laboriosam aspernatur fuga enim reprehenderit. Praesentium possimus esse soluta eligendi, minus, quos voluptas provident ipsa dolor magni similique labore? Impedit minima explicabo labore veritatis eligendi nemo, neque, adipisci quae ab rerum corporis. Alias amet, doloribus ad assumenda quidem eligendi incidunt hic ea autem earum quam voluptatibus corporis, ipsum ex sequi officiis? Voluptates numquam ipsam odit repudiandae?",
+        "higtlight":"A serene cultural and artistic hub nestled in Bali's uplands.",
+        "description": "Ubud is a peaceful haven for art lovers and nature enthusiasts alike. The town is surrounded by lush rice paddies, ancient temples, and vibrant art galleries, making it a perfect destination for those seeking tranquility. The Sacred Monkey Forest Sanctuary is a must-visit, where you can experience the playful nature of Bali's long-tailed macaques. Ubud is also renowned for its traditional dance performances and craft markets, offering a glimpse into the island's rich cultural heritage. Visitors can explore stunning waterfalls, such as Tegenungan, and relax in one of the many luxurious spas. The town’s culinary scene is equally impressive, with a variety of organic and farm-to-table dining options. Whether you're interested in yoga retreats or cooking classes, Ubud provides a well-rounded experience. The area's natural beauty, combined with its artistic flair, makes Ubud a must-visit on any Bali itinerary.",
         "img": "asset/ubud.jpg"
     },
     {
         "name": "KUTA BEACH",
         "id":"2",
-        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum. Cras venenatis euismod malesuada. Nam malesuada felis ac turpis laoreet, nec consectetur velit convallis. Sed sed augue nec ipsum fermentum volutpat. Duis sagittis est id ornare aliquam. Vivamus sit amet nibh et sapien fermentum consequat ut sit amet turpis.",
+        "higtlight":"A lively beach known for its vibrant nightlife and stunning sunsets.",
+        "description": "Kuta Beach is one of Bali's most famous and bustling beaches, attracting visitors with its golden sands and energetic atmosphere. The beach is a paradise for surfers, offering consistent waves suitable for both beginners and experienced surfers. As the sun sets, Kuta transforms into a hub of activity, with beach bars and clubs lighting up the night. The area is also home to numerous shopping centers, where you can find everything from surf gear to Balinese souvenirs. Kuta is not just about the beach; it's a place where you can experience the lively culture of Bali through its local markets and street performances. Despite its modern developments, Kuta Beach has managed to maintain its charm, making it a popular spot for tourists and locals alike. Whether you're looking to relax on the beach, try your hand at surfing, or enjoy the vibrant nightlife, Kuta Beach has something for everyone.",
         "img": "asset/kuta.jpeg"
     },
     {
         "name": "TANAH LOT",
         "id":"3",
-        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed libero a magna congue placerat. Integer ultricies vehicula ligula, in tristique orci convallis eu. Aliquam erat volutpat. Proin lacinia ligula a enim interdum, nec venenatis libero sollicitudin. Curabitur a arcu vel enim pellentesque suscipit. Integer ut diam sit amet libero vehicula aliquam.",
+        "higtlight":"A dramatic sea temple perched on a rocky outcrop, offering breathtaking sunset views.",
+        "description": "Tanah Lot is one of Bali's most iconic landmarks, known for its stunning ocean views and cultural significance. This ancient Hindu temple, perched on a large rock formation, is surrounded by the sea, creating a dramatic backdrop, especially during sunset. Tanah Lot is a significant pilgrimage site for the Balinese, and its surroundings are filled with souvenir shops and cultural performances that highlight the island's spiritual heritage. The temple is accessible during low tide, allowing visitors to walk across the rocky path and explore the base of the structure. The area around Tanah Lot is also home to beautiful gardens and traditional Balinese architecture, making it a peaceful place to explore. As the sun sets, the temple becomes silhouetted against the sky, creating one of the most photographed scenes in Bali. The combination of spiritual significance and natural beauty makes Tanah Lot a must-see destination.",
         "img": "asset/tanah_lot.jpg"
     },
     {
         "name": "SEMINYAK",
         "id":"4",
-        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at risus nec sem sollicitudin sodales. Nam auctor dapibus justo, vel faucibus enim tincidunt eu. Aenean varius metus non magna convallis, a pharetra ex condimentum. Donec sit amet urna vel est tincidunt vehicula. Maecenas non arcu ex. Integer tincidunt lacus nec libero tristique, quis faucibus eros accumsan.",
-        "img": "asset/seminyak.png"
+        "higtlight":"A chic and upscale area known for its high-end boutiques, trendy restaurants, and luxurious resorts.",
+        "description": "Seminyak is Bali's most stylish and sophisticated beach resort area, offering a perfect blend of luxury and culture. The area is famous for its upscale shopping streets, where you can find designer boutiques, art galleries, and unique homeware stores. Seminyak's culinary scene is one of the best on the island, with a wide range of restaurants offering everything from traditional Balinese dishes to international gourmet cuisine. The beach itself is less crowded than Kuta, providing a more relaxed and exclusive atmosphere. Seminyak is also known for its vibrant nightlife, with trendy beach clubs and rooftop bars that offer stunning views of the sunset. Visitors can indulge in luxurious spa treatments, explore local markets, or simply relax by the pool at one of the many high-end resorts. With its combination of luxury, culture, and natural beauty, Seminyak is a top destination for those looking to experience the best of Bali.",
+        "img": "asset/seminyak.jpg"
     },
     {
         "name": "NUSA DUA",
         "id":"5",
-        "higtlight":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, omnis?...",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper enim non eros facilisis, sed iaculis est tristique. Sed dapibus dolor a lectus accumsan, sed egestas mauris vulputate. Vestibulum vitae quam et libero commodo tincidunt. Praesent imperdiet ligula nec velit elementum, in vulputate felis ullamcorper. Phasellus sit amet suscipit eros.",
-        "img": "asset/nusa_dua.png"
+        "higtlight":"A pristine, family-friendly area with world-class resorts and crystal-clear waters.",
+        "description": "Nusa Dua is a tranquil and meticulously planned resort area located on Bali's southern coast. Known for its clean, white sandy beaches and crystal-clear waters, Nusa Dua is the perfect destination for families and honeymooners. The area is home to some of Bali's most luxurious resorts, offering top-notch amenities and services. Water sports enthusiasts will find plenty to do, from snorkeling and diving to jet skiing and parasailing. The calm waters make it a safe and enjoyable spot for swimming and other beach activities. Nusa Dua is also home to the Bali Nusa Dua Theatre, where you can experience the island's rich cultural performances. The area is designed to provide a peaceful and secure environment, with beautifully landscaped gardens, golf courses, and high-end shopping complexes. Whether you're looking to relax on the beach, explore the underwater world, or enjoy a luxury spa day, Nusa Dua offers a serene and luxurious escape.",
+        "img": "asset/nusa_dua.jpg"
     }
 ]
